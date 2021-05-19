@@ -38,7 +38,8 @@ Using simple "hello world" application from the [nodejs.org](https://nodejs.org/
   BUILD --> Execute Shell npm install
    ```sh 
    npm install
-   tar czf easyio.tar-$BUILD_NUMBER.gz node_modules main.js package.json public LICENSE
+   tar czf easyio.tar-$BUILD_NUMBER.gz node_modules main.js package.json public LICENSEe
+    
    ```
 
 ## To Deploy on nodejs application server 
